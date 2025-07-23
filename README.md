@@ -32,22 +32,29 @@ A simple Android weather application built using Kotlin, XML, and the OpenWeathe
 <img src="screenshot1.jpg" alt="Search Weather" width="300"/>
 
 
+
 🚀 Getting Started
-
-1️⃣ Clone the repository
-
+1️⃣ Clone the Repository
 bash
 Copy
 Edit
+git clone https://github.com/saurabhkumar2001/Weather-APP
+2️⃣ Open Project in Android Studio
+3️⃣ Get OpenWeatherMap API Key
+Visit: OpenWeatherMap API
 
+Sign up and generate your API key
 
-2️⃣ Open the project in Android Studio
+4️⃣ Add Your API Key
+Replace "YOUR_API_KEY" in the code with your actual API key.
 
-3️⃣ Get your API key from OpenWeather
+5️⃣ Run the App
+Use an emulator or a real device running Android API 21+.
 
-4️⃣ Replace "YOUR_API_KEY" in your code with your actual API key
+🔑 API Used
+OpenWeatherMap API for real-time weather data
+📖 API Documentation
 
-5️⃣ Run the app on an emulator or a real device
 
 🔑 API
 
