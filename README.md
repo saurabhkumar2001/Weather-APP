@@ -35,12 +35,13 @@ A simple Android weather application built using Kotlin, XML, and the OpenWeathe
 
 🚀 Getting Started
 1️⃣ Clone the Repository
-bash
-Copy
-Edit
+
 git clone https://github.com/saurabhkumar2001/Weather-APP
+
 2️⃣ Open Project in Android Studio
+
 3️⃣ Get OpenWeatherMap API Key
+
 Visit: OpenWeatherMap API
 
 Sign up and generate your API key
