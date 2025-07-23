@@ -1,63 +1,61 @@
-📱 Project Overview:
-A real-time weather application built for Android that fetches and displays city-wise weather data using the OpenWeather API. The UI is minimalist and clean, focusing on readability and ease of use.
+🌦️ Weather App
+A sleek and simple Android weather application that shows real-time weather data using the OpenWeather API. Developed with Kotlin, XML, and Android Studio, this app allows users to search for any city and get live weather updates in a clean and user-friendly interface.
 
-🛠️ Tech Stack:
-Frontend: Kotlin, XML
 
-Backend/API: OpenWeatherMap API
+🛠️ Tech Stack
+Kotlin
 
-IDE: Android Studio
+XML
 
-✨ Key Features:
-🔍 City-based weather search
+Android Studio
 
-🌡️ Displays temperature, humidity, wind speed
+OpenWeatherMap API
 
-☁️ Real-time weather conditions (e.g., Clouds)
+✨ Features
+🔍 Search weather by city name
 
-❌ Graceful error handling for wrong city input or no internet
+🌡️ Real-time temperature, humidity, and wind speed
 
-📆 Date, sunrise & sunset info
+☁️ Weather conditions (e.g., Clouds, Rain, etc.)
 
-📱 Optimized UI for modern Android devices
+📆 Date, Sunrise, and Sunset info
 
-📸 UI Details from Screenshot:
-Location: Siwan
+❌ Handles errors like invalid city names or no internet
 
-Current Temp: 39.36°C
+📱 Modern, clean UI (Designed by Saurabh Jha)
 
-Condition: Clouds
+📸 Screenshots
+Home Screen
 
-Humidity: 32%
+🚀 Getting Started
+1️⃣ Clone the Repository
+bash
+Copy
+Edit
+git clone https://github.com/saurabhkumar2001/Weather-APP
+2️⃣ Open Project in Android Studio
+3️⃣ Get OpenWeatherMap API Key
+Visit: OpenWeatherMap API
 
-Wind Speed: 4.08 m/s
+Sign up and generate your API key
 
-Sunrise: 05:13 AM
+4️⃣ Add Your API Key
+Replace "YOUR_API_KEY" in the code with your actual API key.
 
-Sunset: 18:44 PM
+5️⃣ Run the App
+Use an emulator or a real device running Android API 21+.
 
-Sea Level Pressure: 995 hPa
+🔑 API Used
+OpenWeatherMap API for real-time weather data
+📖 API Documentation
 
-Designed by: Saurabh Jha
+📌 Requirements
+Android Studio (latest version recommended)
 
-🚀 Setup Instructions:
-Clone Repo:
-git clone https://github.com/PawanKushwhaha/Weather-App
-Open in Android Studio
+Android emulator or physical device (API 21+)
 
-Get API key from OpenWeather
-Replace "YOUR_API_KEY" with your key
-Run on emulator or device
+🤝 Contributing
+Pull requests are welcome! Feel free to fork the repo and submit suggestions or improvements.
 
-🧪 Testing Requirements:
-Android 5.0 (API 21) or higher
-Stable internet connection
-
-Emulator or real Android device
-
-🤝 Contribution:
-This project is open-source. You’re encouraged to fork and contribute enhancements (new features, dark mode, animations, etc.)
-
-🔖 License:
-MIT License – Free to use and modify with credit.
-
+📄 License
+This project is licensed under the MIT License.
