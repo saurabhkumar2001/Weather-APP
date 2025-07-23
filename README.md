@@ -1,61 +1,70 @@
-🌦️ Weather App
-A sleek and simple Android weather application that shows real-time weather data using the OpenWeather API. Developed with Kotlin, XML, and Android Studio, this app allows users to search for any city and get live weather updates in a clean and user-friendly interface.
+# Weather-App
 
+
+A simple Android weather application built using Kotlin, XML, and the OpenWeather API. It displays real-time weather information (temperature, humidity, wind speed, etc.) for any city. Designed and developed in Android Studio with a clean and user-friendly interface.
 
 🛠️ Tech Stack
-Kotlin
 
-XML
+* Kotlin
 
-Android Studio
+* XML
 
-OpenWeatherMap API
+* OpenWeather API
+
+* Android Studio
 
 ✨ Features
-🔍 Search weather by city name
 
-🌡️ Real-time temperature, humidity, and wind speed
+✅ Search for weather by city name
 
-☁️ Weather conditions (e.g., Clouds, Rain, etc.)
+✅ Real-time temperature, humidity, wind speed
 
-📆 Date, Sunrise, and Sunset info
+✅ User-friendly and minimal UI
 
-❌ Handles errors like invalid city names or no internet
-
-📱 Modern, clean UI (Designed by Saurabh Jha)
+✅ Error handling for invalid city names or network issues
 
 📸 Screenshots
-Home Screen
+
+## 📸 Screenshots
+
+<img src="screenshot2.jpg" alt="Weather App Home" width="300"/>
+
+<img src="screenshot1.jpg" alt="Search Weather" width="300"/>
+
 
 🚀 Getting Started
-1️⃣ Clone the Repository
+
+1️⃣ Clone the repository
+
 bash
 Copy
 Edit
-git clone https://github.com/saurabhkumar2001/Weather-APP
-2️⃣ Open Project in Android Studio
-3️⃣ Get OpenWeatherMap API Key
-Visit: OpenWeatherMap API
 
-Sign up and generate your API key
 
-4️⃣ Add Your API Key
-Replace "YOUR_API_KEY" in the code with your actual API key.
+2️⃣ Open the project in Android Studio
 
-5️⃣ Run the App
-Use an emulator or a real device running Android API 21+.
+3️⃣ Get your API key from OpenWeather
 
-🔑 API Used
-OpenWeatherMap API for real-time weather data
-📖 API Documentation
+4️⃣ Replace "YOUR_API_KEY" in your code with your actual API key
+
+5️⃣ Run the app on an emulator or a real device
+
+🔑 API
+
+This app uses the OpenWeatherMap API for fetching weather data.
+
+➡ OpenWeather API Documentation
 
 📌 Requirements
+
 Android Studio (latest version recommended)
 
-Android emulator or physical device (API 21+)
+Android device or emulator running API 21+
 
 🤝 Contributing
-Pull requests are welcome! Feel free to fork the repo and submit suggestions or improvements.
+
+Feel free to fork this repo and submit pull requests!
 
 📄 License
+
 This project is licensed under the MIT License.
